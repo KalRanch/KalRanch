@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalRanch
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on any project using the MERN stack
 - 📫 You can reach me through the email opunuihonor@yahoo.com
 
